@@ -18,6 +18,7 @@
 #include <algorithm>
 #include <vector>
 #include <filesystem>
+#include <cmath>
 #include "raylib.h"
 #include "tinyfiledialogs.h"
 #include "NTBL.h"
